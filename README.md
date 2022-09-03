@@ -1,0 +1,1 @@
+# holidaze-strapi-db
